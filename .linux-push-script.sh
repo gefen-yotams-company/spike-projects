@@ -1,4 +1,4 @@
-git switch main
+git switch yotam
 git add .
 git commit -m linux-push
-git push origin main
+git push origin yotam
