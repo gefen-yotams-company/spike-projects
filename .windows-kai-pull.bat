@@ -1,3 +1,4 @@
 git switch kai
-git fetch origin main
-git pull origin main
+git add .
+git commit -m placeholder
+git reset --hard origin/main
